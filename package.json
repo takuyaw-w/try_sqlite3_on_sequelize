@@ -1,0 +1,17 @@
+{
+  "name": "matter_management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.19.2",
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^4.1.0"
+  }
+}
